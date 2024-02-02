@@ -1,5 +1,5 @@
 # About Me:
-I am a computer science student at UCLA interested in Full Stack Develpment and Software Engineering. I am also interested in data analytics/visualization.
+I am a computer science student at UCLA interested in Full Stack Develpment and Software Engineering. I am particularly experienced with React and TypeScript. I am also interested in data analytics/visualization.
 
 
 # Tech Skills:
