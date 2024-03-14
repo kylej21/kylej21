@@ -6,5 +6,3 @@ I am a computer science student at UCLA interested in Full Stack Develpment and 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=kylej21&icon=6&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
